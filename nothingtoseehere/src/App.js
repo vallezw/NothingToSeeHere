@@ -1,8 +1,5 @@
 import './App.css';
-import Typing from 'react-typing-animation';
 import Typical from 'react-typical'
-
-import Cursor from './Cursor'
 
 function App() {
   return (
