@@ -1,4 +1,5 @@
 # Nothing to see here - One Page React Application
+Simple animation for a not finished website
 [Try out the online demo](https://vallezw.github.io/NothingToSeeHere/)
 
 [Get the Docker Image: vallezw/nothingtoseehere](https://hub.docker.com/repository/docker/vallezw/nothingtoseehere)
