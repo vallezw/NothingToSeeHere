@@ -1,6 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;500;600;700;800&display=swap');
 
+::-moz-selection {
+  /* Code for Firefox */
+  background: #1e1f1e;
+}
+
+
+::selection {  
+  background: #1e1f1e;
+}
+
 body {
   margin: 0;
   font-family: 'Open Sans', sans-serif;
