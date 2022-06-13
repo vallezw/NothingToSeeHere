@@ -40,7 +40,8 @@ code {
 }
 
 .header h1 {
-  font-size: 3.57em;
+  font-size: 5.5em;
+  margin-right: 5px;
   margin-bottom: 7px;
   margin-top: -15px;
   font-weight: 300;
@@ -51,4 +52,5 @@ code {
   /*font-family: 'VT323', monospace;*/
   color: lightgray;
   font-weight: 300;
+  
 }
